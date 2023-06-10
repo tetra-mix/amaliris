@@ -7,6 +7,10 @@
 一応、windows等でダウンロードして遊べるようにはなっています。
 下記のサイトからダウンロードできます。
 
+## お借りしたもの
+- ぴぽや倉庫 ウディタ２用マップセット マップチップ32×32 の一部 [ぴぽや https://pipoya.net/ より]
+- もともとのソースファイル https://github.com/takara2314/siv3d-rpgmap-movable
+- OpenSiv3D
 
 ## このゲームについてのサイト
 [https://amaliris.clowntetra.jp/](https://amaliris.clowntetra.jp/)
