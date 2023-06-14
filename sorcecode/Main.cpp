@@ -472,6 +472,7 @@ void DrawMapChips(const Grid<int>& grid, const Texture& texture)
 void Main()
 {
 	Window::Resize(512, 512);
+	Window::SetTitle(U"Amaliris");
 	Scene::SetBackground(Color(5, 25, 75));
 	Texture forestTile(U"img/map.png");
 	const Grid<int> mapLayer1 = LoadCSV(U"csv/map_layer1.csv");
